@@ -1,5 +1,7 @@
 # 📡 PHP Minecraft Server Status v1.0
 
+### 📄 Popis
+
 Web napsaný v PHP, který dokáže zjistit status Minecraft serverů s pomocí této API: https://api.mcsrvstat.us/
 
 ### Ukázka:
